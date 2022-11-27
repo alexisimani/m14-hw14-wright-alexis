@@ -1,0 +1,30 @@
+.carousel .carousel-item {
+    height: 800px;
+}
+  
+.carousel-item img {
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    min-height: 800px;
+}
+
+img {
+    width: 200px;
+    height: 900px;
+}
+
+
+.carousel-caption h5{
+    background-color: white;
+}
+
+.carousel-caption p{
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
