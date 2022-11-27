@@ -2,4 +2,4 @@
 
 ## Bootstrap Components Used (Other than the NavBar)
 1. Carousel with controls, indicators, and captions in the dark variant
-2. Card : Quote
+2. Card for a quote
